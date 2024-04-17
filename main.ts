@@ -9,7 +9,7 @@ function writeClock (x: number, y: number, radius: number, hour: number, minute:
 matrix.init(matrix.ePages.y128)
 matrix.displayMatrix()
 rtcpcf85063tp.beimStart(rtcpcf85063tp.rtcpcf85063tp_eADDR(rtcpcf85063tp.eADDR.RTC_x51))
-matrix.comment("elssner/analoguhr")
+matrix.comment("elssner/analoguhr-62")
 matrix.comment("2 Erweiterungen:")
 matrix.comment("calliope-net/matrix")
 matrix.comment("calliope-net/rtc-uhr")
